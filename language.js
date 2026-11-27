@@ -140,5 +140,24 @@ const portfolioEnglish = {
   "邮箱": "Email",
   "部署后的公开首页，截图只保留锁屏。": "The public homepage. Only the lock screen is shown.",
   "限定咖啡馆 ↗": "Pop-up café ↗",
-  "限定咖啡馆的手机页面": "The pop-up café on mobile"
+  "限定咖啡馆的手机页面": "The pop-up café on mobile",
+
+  "生物 AI 证据核验与评测": "Biology AI: checking evidence and evaluating answers",
+  "个人项目 · 酶催化证据工作台": "Personal project · Enzyme Evidence Workbench",
+  "个人项目 · CarH / B12 光酶催化": "Personal project · CarH / B12 photoenzymatic catalysis",
+  "做酶催化研究时，我很在意一个数字是在什么条件下得到的。我把这个习惯做成了工作台：查文献摘记、比较实验条件、检查 AI 回答中的引用与数字，再记录人工判断。": "In enzyme research, I care about the conditions behind a number. I turned that habit into a workbench: find literature notes, compare experimental conditions, inspect citations and numbers in an AI answer, then record a human judgment.",
+  "比如 17.1% 到 67.9% 接近四倍，但优化条件下野生型与突变体是 36.7% 和 67.9%，约 1.85 倍。基线变了，不能把所有改善都算到突变上。": "A change from 17.1% to 67.9% is close to fourfold. Under optimized conditions, however, the wild type and mutant give 36.7% and 67.9%, about 1.85-fold. A change of baseline cannot attribute every improvement to the mutation.",
+  "项目在 Codex 协助下完成，包含词法检索、显式规则检查、回答指纹与 JSON 导出。可在浏览器体验，也能本地接入兼容模型接口。": "Built with Codex assistance, the project includes lexical retrieval, explicit checks, response fingerprints and JSON export. It works in the browser and can optionally connect to a compatible model service locally.",
+  "4 篇原始研究 · 12 条摘记 · 20 个教学任务。参考标注待我逐条复核；构造样例不当作模型实测。": "4 original studies · 12 evidence notes · 20 teaching tasks. Reference annotations await my domain review; authored examples are not model measurements.",
+  "工作台 · 实际运行画面": "The workbench · Actual running interface",
+  "酶证据工作台桌面截图：左侧选择任务，中间核验回答，右侧查看带定位的文献摘记": "Enzyme Evidence Workbench: task selection on the left, answer checks in the middle and traceable evidence notes on the right",
+  "同一个回答里，引用存在、数字正确，也可能伴随不成立的推论。": "An answer can contain real citations and correct numbers while drawing an unsupported conclusion.",
+  "打开工作台 ↗": "Open the workbench (Chinese) ↗",
+  "查看 GitHub 源码 ↗": "View the GitHub source ↗",
+  "代码原理与演示说明 ↗": "Code guide and demo notes (Chinese) ↗",
+  "放大酶证据工作台运行截图": "Enlarge the Enzyme Evidence Workbench screenshot"
+,
+
+  "我在找 AI 产品、评测或内容运营相关的实习与工作，也关注 AI 与生物交叉的机会。base 江浙沪或深圳，可远程。有合适的机会，或者想聊聊这里的项目，欢迎给我发邮件。": "I’m looking for internships or roles in AI products, evaluation and content operations, including opportunities at the intersection of AI and biology. I can be based in Shanghai, Jiangsu, Zhejiang or Shenzhen, or work remotely. If you have an opportunity or want to talk about a project here, I’d love to hear from you."
+
 };
